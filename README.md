@@ -1,0 +1,2 @@
+# Modelling-Simulation-and-Optimisation
+Part 1 Simulation: Create a simulation for the London Old Oak Commons to Birmingham Interchange section of the high-speed line. The distance between London Old Oak Common Station and Birmingham Interchange Station is 145km. Assume that the track consists of k signalling blocks of equal length and that a fixed train schedule of n trains per hour is to be used.
